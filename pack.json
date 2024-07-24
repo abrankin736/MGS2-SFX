@@ -1,0 +1,10 @@
+{
+  "name": "Dead Rising UI SFX",
+  "description": "Replaces UI sounds with sounds from Dead Rising's UI.",
+  "author": "abrankin736",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
